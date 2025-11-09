@@ -21,7 +21,7 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 text-foreground">
-              Authentic South Indian Food
+              Madras Engineering College Canteen
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-muted-foreground">
               Fresh, delicious meals delivered fast to your doorstep at Madras Engineering College
